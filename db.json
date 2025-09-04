@@ -1,0 +1,508 @@
+{
+  "seller": [
+    {
+      "id": "af55",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "93e2",
+      "name": "Pavan Patil",
+      "password": "pavan123",
+      "email": "pavan123@gmail.com"
+    },
+    {
+      "id": "296d",
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@test.com"
+    },
+    {
+      "id": "b0f6",
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@test.com"
+    },
+    {
+      "id": "6269",
+      "name": "peter",
+      "password": "peter@123",
+      "email": "pater123@gmail.com"
+    },
+    {
+      "id": "cda1",
+      "name": "Nilesh Narkhede",
+      "password": "nilesh@123",
+      "email": "nilesh123@gmail.com"
+    },
+    {
+      "id": "9138",
+      "name": "boruce",
+      "password": "boruce@123",
+      "email": "boruce123@gmail.com"
+    },
+    {
+      "id": "8968",
+      "name": "ranjit kalen",
+      "password": "ranjit@123",
+      "email": "ranjit123@gmail.com"
+    },
+    {
+      "id": "8360",
+      "name": "abhi sadvrte",
+      "password": "abhi@123",
+      "email": "abhi123@gmail;.com"
+    },
+    {
+      "id": "4d84",
+      "name": "mahadev",
+      "password": "123",
+      "email": "mahadev@test.com"
+    },
+    {
+      "id": "7e15",
+      "name": "pavan patil",
+      "password": "pavan123",
+      "email": "pavan223@test.com"
+    },
+    {
+      "id": "46c4",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "a846",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "cc74",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "09a2",
+      "name": "",
+      "password": "",
+      "email": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "489b",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png"
+    },
+    {
+      "id": "d5cc",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "id": "8a5d",
+      "name": "Apple MacBook Pro",
+      "price": "350000",
+      "color": "White",
+      "category": "Laptop",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg"
+    },
+    {
+      "id": "66ef",
+      "name": "Apple MacBook 16 Pro",
+      "price": "30000",
+      "color": "White",
+      "category": "Laptop",
+      "Description": "Apple Product",
+      "image": "https://i.ebayimg.com/images/g/EGUAAOSwSWhjxdjA/s-l1600.webp"
+    },
+    {
+      "id": "1818",
+      "name": "BoAt Lunar Pro",
+      "price": "4000",
+      "color": "black",
+      "category": "Watch",
+      "Description": "BoAt Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJFgdZbhWvNyjHlzZ1n6wrszzGmDeFBU-N2cH4UEdI4E_Xj4pKHpTib5WSWNE7JD-h29pAOj6bT5U29N5-a2Eht22Pz_Q2awHX-Ze49j_qefE5REykdOcL3g"
+    },
+    {
+      "id": "76c6",
+      "name": "MRF Cricket Set",
+      "price": "10000",
+      "color": "Red",
+      "category": "Cricket Set",
+      "Description": "MRF Product",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/kit/3/b/t/mrf-grand-edition-vk-18-junior-cricket-set-of-5-vk18-5no-10-hf-original-imah96x8agpfjv6n.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "10ff",
+      "name": "Skybag-Network",
+      "price": "3000",
+      "color": "Blue",
+      "category": "BackPack",
+      "Description": "SkyBag Product",
+      "image": "https://skybags.co.in/cdn/shop/files/1_8b510222-e468-402c-a045-5e4c2ae83b18_1800x1800.png?v=1701858356"
+    },
+    {
+      "id": "29f0",
+      "name": "JBL Flip 5",
+      "price": "12000",
+      "color": "Black",
+      "category": "Speaker",
+      "Description": "JBL Product",
+      "image": "https://reviewindetail.com/wp-content/uploads/sites/3/2021/02/jbl_flip5_1.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "c82d",
+      "name": "abhi",
+      "email": "abhi123@test.com",
+      "password": "abhi123"
+    },
+    {
+      "id": "1545",
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "abc123"
+    },
+    {
+      "id": "2c77",
+      "name": "ppk",
+      "email": "ppk@test.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "bf71",
+      "name": "om",
+      "email": "om@test.com",
+      "password": "om123"
+    },
+    {
+      "id": "e8b6",
+      "name": "ppk",
+      "email": "ppk@test.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "30ea",
+      "name": "Pavan Patil",
+      "email": "pavan198@gmail.com",
+      "password": "pavan123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "8481",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "d5cc",
+      "userid": 0
+    },
+    {
+      "id": "f27c",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "cb3c",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "9a3e",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "7c7f",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "e7ac",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "a3fb",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "44d8",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "b49b",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "b64a",
+      "name": "Apple MacBook Pro",
+      "price": "350000",
+      "color": "White",
+      "category": "Laptop",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg",
+      "quantity": 2,
+      "userId": "30ea",
+      "productId": "8a5d",
+      "userid": 0
+    },
+    {
+      "id": "bd4e",
+      "name": "Apple MacBook Pro",
+      "price": "350000",
+      "color": "White",
+      "category": "Laptop",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "30ea",
+      "productId": "8a5d",
+      "userid": 0
+    },
+    {
+      "id": "5ce4",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "de1b",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "d5cc",
+      "userid": 0
+    },
+    {
+      "id": "37f0",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "d5cc",
+      "userid": 0
+    },
+    {
+      "id": "9bc4",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "d5cc",
+      "userid": 0
+    },
+    {
+      "id": "003c",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "d5cc",
+      "userid": 0
+    },
+    {
+      "id": "ef5c",
+      "name": "Nike Dunk Low Retro",
+      "price": "4000",
+      "color": "White",
+      "category": "Shoes",
+      "Description": "Nike Product",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17de9fea-710d-401e-8de9-96cffccc7f5f/NIKE+MOTIVA.png",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "489b",
+      "userid": 0
+    },
+    {
+      "id": "0f67",
+      "name": "Skybag-Network",
+      "price": "3000",
+      "color": "Blue",
+      "category": "BackPack",
+      "Description": "SkyBag Product",
+      "image": "https://skybags.co.in/cdn/shop/files/1_8b510222-e468-402c-a045-5e4c2ae83b18_1800x1800.png?v=1701858356",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "10ff",
+      "userid": 0
+    },
+    {
+      "id": "6a49",
+      "name": "MRF Cricket Set",
+      "price": "10000",
+      "color": "Red",
+      "category": "Cricket Set",
+      "Description": "MRF Product",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/kit/3/b/t/mrf-grand-edition-vk-18-junior-cricket-set-of-5-vk18-5no-10-hf-original-imah96x8agpfjv6n.jpeg?q=90&crop=false",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "76c6",
+      "userid": 0
+    },
+    {
+      "id": "3e6d",
+      "name": "BoAt Lunar Pro",
+      "price": "4000",
+      "color": "black",
+      "category": "Watch",
+      "Description": "BoAt Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJFgdZbhWvNyjHlzZ1n6wrszzGmDeFBU-N2cH4UEdI4E_Xj4pKHpTib5WSWNE7JD-h29pAOj6bT5U29N5-a2Eht22Pz_Q2awHX-Ze49j_qefE5REykdOcL3g",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "1818",
+      "userid": 0
+    },
+    {
+      "id": "3428",
+      "name": "Apple MacBook Pro",
+      "price": "350000",
+      "color": "White",
+      "category": "Laptop",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "8a5d",
+      "userid": 0
+    },
+    {
+      "id": "4ea8",
+      "name": "Iphone 14",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "Description": "Apple Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.large.jpg",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "d5cc",
+      "userid": 0
+    },
+    {
+      "id": "2ed6",
+      "name": "MRF Cricket Set",
+      "price": "10000",
+      "color": "Red",
+      "category": "Cricket Set",
+      "Description": "MRF Product",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/kit/3/b/t/mrf-grand-edition-vk-18-junior-cricket-set-of-5-vk18-5no-10-hf-original-imah96x8agpfjv6n.jpeg?q=90&crop=false",
+      "quantity": 1,
+      "userId": "2c77",
+      "productId": "76c6",
+      "userid": 0
+    }
+  ],
+  "orders": []
+}

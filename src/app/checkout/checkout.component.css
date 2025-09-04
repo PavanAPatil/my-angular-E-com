@@ -1,0 +1,11 @@
+.checkout h1
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.checkout h3,h4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
